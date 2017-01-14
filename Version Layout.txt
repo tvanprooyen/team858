@@ -1,0 +1,10 @@
+Version Layout
+
+1.0.0.0
+
+1)Major Build, aka stable version of the code
+2)Minor Fixes
+3)Test, Stable
+4)Test Fixes
+
+Everytime your done with a version of the code save it in a seperate folder with the version at the correct number
